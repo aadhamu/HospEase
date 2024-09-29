@@ -1,0 +1,660 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-09-28T13:41:59Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/12186173",
+        "addr:housenumber": "6",
+        "addr:postcode": "23409",
+        "addr:street": "Aso Drive",
+        "amenity": "hospital",
+        "email": "info@diffhospital.com",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "internet_access": "wlan",
+        "name": "DIFF Hospital",
+        "name:en": "DIFF HOSPITAL, ABUJA",
+        "opening_hours": "24/7",
+        "phone": "09-2906387",
+        "type": "multipolygon",
+        "website": "https://diffhospital.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.506318, 9.0772975],
+            [7.5065447, 9.0773915],
+            [7.506656, 9.0773849],
+            [7.5068558, 9.0774948],
+            [7.5069148, 9.0775769],
+            [7.5064843, 9.0778815],
+            [7.5063301, 9.0776643],
+            [7.5063086, 9.0776127],
+            [7.5063033, 9.0775505],
+            [7.506318, 9.0772975]
+          ]
+        ]
+      },
+      "id": "relation/12186173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/12215285",
+        "addr:city": "Abuja",
+        "addr:street": "Tafa Balewa Way",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Garki Hospital",
+        "phone": "+234 809 042 2599",
+        "type": "multipolygon",
+        "website": "https://garkihospital.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.4842201, 9.0328157],
+            [7.4859126, 9.0338249],
+            [7.485478, 9.0344845],
+            [7.4839599, 9.0337799],
+            [7.4831418, 9.033507],
+            [7.4842201, 9.0328157]
+          ]
+        ]
+      },
+      "id": "relation/12215285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/98919901",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "National Hospital Abuja",
+        "old_name": "National Hospital For Women And Children",
+        "operator": "Federal Government of Nigeria.",
+        "website": "https://www.nationalhospitalabuja.net/",
+        "wheelchair": "limited",
+        "wikidata": "Q6973410",
+        "wikipedia": "en:National Hospital, Abuja"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.4629546, 9.037389],
+            [7.4631726, 9.0374007],
+            [7.4651169, 9.037939],
+            [7.4634521, 9.0438036],
+            [7.463192, 9.0441008],
+            [7.4595619, 9.0430647],
+            [7.4584662, 9.0411548],
+            [7.4603223, 9.0387032],
+            [7.4629546, 9.037389]
+          ]
+        ]
+      },
+      "id": "way/98919901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/299202483",
+        "addr:city": "Abuja",
+        "addr:housenumber": "15",
+        "addr:street": "Conakry Street",
+        "alt_name": "Wuse General Hospital Zone 3",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Wuse General Hospital"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.4682176, 9.0624892],
+            [7.4688783, 9.0620482],
+            [7.4696895, 9.0630168],
+            [7.4689063, 9.0636255],
+            [7.4682814, 9.0627069],
+            [7.4682843, 9.0625993],
+            [7.4682176, 9.0624892]
+          ]
+        ]
+      },
+      "id": "way/299202483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/435783757",
+        "addr:housenumber": "4",
+        "addr:street": "Buchanan Close",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Migration Health Assessment Center - Abuja"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.471776, 9.0864044],
+            [7.4716606, 9.0863078],
+            [7.4718124, 9.0861592],
+            [7.4719879, 9.0863687],
+            [7.4718283, 9.0864786],
+            [7.471776, 9.0864044]
+          ]
+        ]
+      },
+      "id": "way/435783757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/452837831",
+        "amenity": "hospital",
+        "name": "University of Abuja Teaching Hospital"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.0628504, 8.9540333],
+            [7.0619868, 8.9540439],
+            [7.0615925, 8.9540333],
+            [7.0595218, 8.9540055],
+            [7.0579272, 8.9540188],
+            [7.0579675, 8.9450964],
+            [7.0633574, 8.9451189],
+            [7.0674464, 8.9491727],
+            [7.0664339, 8.9500696],
+            [7.0659745, 8.9505041],
+            [7.0654052, 8.9509837],
+            [7.0650579, 8.9512957],
+            [7.063987, 8.9525026],
+            [7.0637228, 8.9528503],
+            [7.0636799, 8.9529172],
+            [7.0628504, 8.9540333]
+          ]
+        ]
+      },
+      "id": "way/452837831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/743724156",
+        "alt_name": "063 Nigerian Air Force Hospital",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general;physiotherapy;gynaecology",
+        "name": "Nigerian Air Force (NAF) Hospital"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.2632608, 8.9761055],
+            [7.2639987, 8.975364],
+            [7.264114, 8.9754713],
+            [7.2643407, 8.9752236],
+            [7.2644989, 8.975368],
+            [7.2646585, 8.9751852],
+            [7.2648422, 8.9753627],
+            [7.2647028, 8.9755137],
+            [7.2648865, 8.9757058],
+            [7.2646035, 8.9760144],
+            [7.2646531, 8.9760661],
+            [7.2641462, 8.976849],
+            [7.2632608, 8.9761055]
+          ]
+        ]
+      },
+      "id": "way/743724156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/795539582",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Kubwa General Hospital"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.3407728, 9.1576552],
+            [7.3407979, 9.1570811],
+            [7.3412086, 9.1570987],
+            [7.3411834, 9.1576728],
+            [7.3407728, 9.1576552]
+          ]
+        ]
+      },
+      "id": "way/795539582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/802565454",
+        "amenity": "hospital",
+        "building": "hospital",
+        "healthcare": "hospital",
+        "name": "Dara Medical Clinic",
+        "operator": "Dara"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.479849, 9.0345832],
+            [7.4799433, 9.0345469],
+            [7.4800086, 9.0347119],
+            [7.4799143, 9.0347482],
+            [7.479849, 9.0345832]
+          ]
+        ]
+      },
+      "id": "way/802565454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/802977817",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Nizamiye Hospital"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.3903517, 9.0600254],
+            [7.3902015, 9.0591196],
+            [7.3911322, 9.0589209],
+            [7.3917008, 9.0588176],
+            [7.3923178, 9.0588282],
+            [7.3924009, 9.05975],
+            [7.3914165, 9.0598162],
+            [7.3903517, 9.0600254]
+          ]
+        ]
+      },
+      "id": "way/802977817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/803683952",
+        "addr:city": "Abuja",
+        "addr:housenumber": "2",
+        "addr:street": "Sam Mbakwe Street",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general;orthopaedics;internal;dermatology;urology;surgery;clinic;physiotherapy;orthodontics;gynaecology;emergency",
+        "name": "CedarCrest Abuja Hospital",
+        "operator": "CedarCrest",
+        "phone": "+234 0809 515 7906",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.4869455, 8.9923391],
+            [7.4876452, 8.992475],
+            [7.4875352, 8.9930276],
+            [7.4872222, 8.9930008],
+            [7.4868093, 8.992926],
+            [7.4869455, 8.9923391]
+          ]
+        ]
+      },
+      "id": "way/803683952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1055456337",
+        "amenity": "hospital",
+        "beds": "100",
+        "healthcare": "hospital",
+        "name": "Karshi General Hospital",
+        "operator:type": "government",
+        "source": "Nigerian Red Cross Society",
+        "staff_count:doctors": "10",
+        "staff_count:nurses": "30"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.5700795, 8.8262229],
+            [7.5699604, 8.8253623],
+            [7.5708991, 8.8255445],
+            [7.5706002, 8.8263913],
+            [7.5700795, 8.8262229]
+          ]
+        ]
+      },
+      "id": "way/1055456337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1087447522",
+        "addr:city": "Abuja",
+        "addr:housenumber": "22",
+        "addr:street": "Amazon Street",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Abuja Clinics Nigeria",
+        "website": "https://www.abujaclinics.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.4844414, 9.0987193],
+            [7.4842512, 9.098181],
+            [7.4842196, 9.0980915],
+            [7.4845246, 9.0979871],
+            [7.4845471, 9.0979957],
+            [7.4845973, 9.0980761],
+            [7.4847498, 9.0977938],
+            [7.4852817, 9.0980949],
+            [7.485299, 9.0986646],
+            [7.4852062, 9.0986659],
+            [7.4851812, 9.0986671],
+            [7.484958, 9.0986745],
+            [7.4847636, 9.0986902],
+            [7.4844414, 9.0987193]
+          ]
+        ]
+      },
+      "id": "way/1087447522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1125028475",
+        "amenity": "hospital",
+        "building:levels": "1",
+        "healthcare": "hospital",
+        "name": "Charity  Hospital"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.5859484, 9.0184757],
+            [7.5858465, 9.0183419],
+            [7.5859592, 9.0182678],
+            [7.5860249, 9.0183419],
+            [7.5859726, 9.0183963],
+            [7.5860021, 9.0184307],
+            [7.5859484, 9.0184757]
+          ]
+        ]
+      },
+      "id": "way/1125028475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1125028515",
+        "amenity": "hospital",
+        "healthcare": "hospital"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.58581, 9.0185887],
+            [7.5855713, 9.0182844],
+            [7.5856437, 9.0182373],
+            [7.5858932, 9.0185233],
+            [7.58581, 9.0185887]
+          ]
+        ]
+      },
+      "id": "way/1125028515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1156984060",
+        "addr:city": "Federal Capital Territory",
+        "addr:street": "Beside sunken filling station, along Keti Road, Sheritti",
+        "amenity": "hospital",
+        "beds": "7",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Talek Hospital",
+        "operator:type": "private",
+        "source": "Nigerian Red Cross Society",
+        "staff_count:doctors": "1",
+        "staff_count:nurses": "4"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.4273292, 8.9398338],
+            [7.4273265, 8.9398618],
+            [7.4269401, 8.9397569],
+            [7.427002, 8.9394697],
+            [7.4272168, 8.9394789],
+            [7.42726, 8.9394835],
+            [7.4273616, 8.9394905],
+            [7.4273451, 8.9396442],
+            [7.4273292, 8.9398338]
+          ]
+        ]
+      },
+      "id": "way/1156984060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1199510376",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "FEDERAL MEDICAL CENTER, JABI",
+        "operator": "GOVERNMENT",
+        "operator:type": "government"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.4083058, 9.0148165],
+            [7.4079887, 9.0152421],
+            [7.4082204, 9.0154228],
+            [7.4076716, 9.0162338],
+            [7.4065129, 9.0154107],
+            [7.4075821, 9.0141138],
+            [7.4083058, 9.0148165]
+          ]
+        ]
+      },
+      "id": "way/1199510376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1199516319",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Gwarinpa General Hospital"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.3981016, 9.077313],
+            [7.3978495, 9.0769778],
+            [7.3984065, 9.0765864],
+            [7.3988679, 9.0765181],
+            [7.3988639, 9.0774134],
+            [7.3984045, 9.0776964],
+            [7.3981016, 9.077313]
+          ]
+        ]
+      },
+      "id": "way/1199516319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1199518091",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general;emergency;maternity;blood_check",
+        "name": "Asokor District Hospital, ASOKORO"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.522424, 9.0458774],
+            [7.5228049, 9.0452567],
+            [7.5232158, 9.0455956],
+            [7.5236828, 9.0460338],
+            [7.5241441, 9.0465136],
+            [7.5241441, 9.0466429],
+            [7.5239636, 9.0468246],
+            [7.5237264, 9.0468666],
+            [7.5235778, 9.0468736],
+            [7.5234115, 9.0466918],
+            [7.5230965, 9.0464786],
+            [7.5228983, 9.0462724],
+            [7.522424, 9.0458774]
+          ]
+        ]
+      },
+      "id": "way/1199518091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9280067081",
+        "addr:city": "ABUJA",
+        "addr:housenumber": "648",
+        "addr:street": "Apo Legislative Quarters, 648 Franca Afegbua Crescent, Off Samuel Jereton Mariere Road Beside Bestway Luxury Suite, Extension, Zone E, Abuja",
+        "amenity": "hospital",
+        "email": "customerexperience@eyefoundationhospital.com",
+        "emergency": "yes",
+        "fixme": "bad addr:street",
+        "healthcare": "hospital",
+        "healthcare:speciality": "ophthalmology",
+        "name": "Eye Foundation Hospital",
+        "operator:type": "private",
+        "phone": "+23492918750"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4816342, 8.9997403]
+      },
+      "id": "node/9280067081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10225366710",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Berith Specialist Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.3706404, 9.1468464]
+      },
+      "id": "node/10225366710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10262271042",
+        "addr:city": "Abuja",
+        "addr:street": "Off Dame Patience Str",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "NOOWA Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.5272531, 9.0854412]
+      },
+      "id": "node/10262271042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10538958071",
+        "addr:city": "Abuja",
+        "addr:housenumber": "Plot 606 Cadastral Zone Behind Nationa Judicial Institute",
+        "addr:street": "Emeritus Umaru Shehu Avenue",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general;internal;paediatrics;radiology;surgery;urology;cardiology;physiotherapy;ophthalmology;gynaecology;neurology;dentist;otolaryngology;psychiatry;orthopaedics",
+        "name": "Baze University Hospital",
+        "operator": "Baze Enterprises",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4033817, 9.0084117]
+      },
+      "id": "node/10538958071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11579199660",
+        "amenity": "hospital",
+        "check_date": "2024-02-02",
+        "healthcare": "hospital",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Sunnyvale Hospitals",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4461252, 8.9849538]
+      },
+      "id": "node/11579199660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12070359291",
+        "amenity": "hospital",
+        "name": "Federal Medical Centre Abuja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4076015, 9.0149777]
+      },
+      "id": "node/12070359291"
+    }
+  ]
+}

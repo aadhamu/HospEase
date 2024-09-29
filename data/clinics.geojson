@@ -1,0 +1,407 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-09-28T13:41:59Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/926204439",
+        "addr:street": "Opposite chief Palace, Karshi",
+        "amenity": "clinic",
+        "beds": "6",
+        "building": "yes",
+        "emergency": "yes",
+        "healthcare": "clinic",
+        "name": "Primary Health Care Karshi",
+        "operator": "AMAC",
+        "operator:type": "public",
+        "source": "Nigerian Red Cross Society",
+        "staff_count:doctors": "1",
+        "staff_count:nurses": "15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.5727685, 8.8296659],
+            [7.5727683, 8.8295494],
+            [7.5728353, 8.8295492],
+            [7.5728355, 8.8296658],
+            [7.5727685, 8.8296659]
+          ]
+        ]
+      },
+      "id": "way/926204439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/942159048",
+        "amenity": "clinic",
+        "beds": "2",
+        "building": "yes",
+        "emergency": "yes",
+        "healthcare": "clinic",
+        "name": "Amac Primary Health Care Galadimawa",
+        "opening_hours": "08:00-17:00",
+        "opening_hours:emergency": "08:00-01:00",
+        "operator:type": "government",
+        "source": "Nigerian Red Cross Society",
+        "staff_count:doctors": "0",
+        "staff_count:nurses": "1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.4259635, 8.9922389],
+            [7.4259653, 8.9921781],
+            [7.42599, 8.9921788],
+            [7.4259895, 8.9921954],
+            [7.4260089, 8.9921959],
+            [7.4260076, 8.9922402],
+            [7.4259635, 8.9922389]
+          ]
+        ]
+      },
+      "id": "way/942159048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1162933493",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Waru Health Centre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.4868685, 8.9287492],
+            [7.4868529, 8.928697],
+            [7.4868041, 8.9287111],
+            [7.4867542, 8.9285433],
+            [7.4869077, 8.9284987],
+            [7.4869732, 8.9287188],
+            [7.4868685, 8.9287492]
+          ]
+        ]
+      },
+      "id": "way/1162933493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1162933494",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Waru Health Centre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.4865843, 8.9287535],
+            [7.4865558, 8.9286491],
+            [7.486691, 8.9286131],
+            [7.4867195, 8.9287175],
+            [7.4865843, 8.9287535]
+          ]
+        ]
+      },
+      "id": "way/1162933494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1162933495",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Waru Health Centre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.4865371, 8.9285324],
+            [7.4864992, 8.9284151],
+            [7.486588, 8.9283871],
+            [7.4866017, 8.9284293],
+            [7.4866332, 8.9284194],
+            [7.486667, 8.9285243],
+            [7.4865836, 8.9285506],
+            [7.486574, 8.9285208],
+            [7.4865371, 8.9285324]
+          ]
+        ]
+      },
+      "id": "way/1162933495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1132992485",
+        "healthcare": "centre",
+        "name": "Idu COVID-19 Isolation and Treatment Centre"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [7.35533, 9.039877],
+          [7.3561655, 9.0394775],
+          [7.3560558, 9.0392498],
+          [7.3552241, 9.039653],
+          [7.35533, 9.039877]
+        ]
+      },
+      "id": "way/1132992485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4239597167",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Bridge Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4246563, 9.0649094]
+      },
+      "id": "node/4239597167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7780898985",
+        "amenity": "clinic",
+        "name": "EHA Clinics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4079059, 9.0825399]
+      },
+      "id": "node/7780898985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9178582634",
+        "addr:street": "Opposite Selestial Church, Galadimawa",
+        "amenity": "clinic",
+        "emergency": "yes",
+        "healthcare": "clinic",
+        "name": "Classic Symbols Diagnostic Ltd Medical Centre",
+        "operator": "Classic Symbols Diagnostic Ltd",
+        "operator:type": "private",
+        "source": "Nigerian Red Cross Society",
+        "staff_count:doctors": "2",
+        "staff_count:nurses": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4250452, 8.9954916]
+      },
+      "id": "node/9178582634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10225217886",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Primary Health Care Center Dutse Alhaji"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.3726191, 9.1416842]
+      },
+      "id": "node/10225217886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10739573303",
+        "addr:street": "Close to nipco",
+        "amenity": "clinic",
+        "emergency": "no",
+        "healthcare": "clinic",
+        "name": "Primary health care center",
+        "operator:type": "government",
+        "source": "Nigerian Red Cross Society"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4224538, 9.0160281]
+      },
+      "id": "node/10739573303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10739640843",
+        "amenity": "clinic",
+        "beds": "0",
+        "healthcare": "clinic",
+        "name": "Diagnoroy Consult ltd",
+        "operator:type": "private",
+        "source": "Nigerian Red Cross Society",
+        "staff_count:doctors": "0",
+        "staff_count:nurses": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.421503, 9.0178786]
+      },
+      "id": "node/10739640843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10739640844",
+        "addr:street": "Bio-Cycle Laboratory and diagnostic centre LTD, Kuchigoro off Musa Yar'adua Express way",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Bio-Cycle Laboratory",
+        "operator:type": "private",
+        "source": "Nigerian Red Cross Society"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4200083, 9.0173179]
+      },
+      "id": "node/10739640844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10739640845",
+        "addr:city": "Kuchingoro",
+        "addr:street": "House 3, bio cycle street, off Ecwa Goodnews road",
+        "amenity": "clinic",
+        "beds": "8",
+        "emergency": "yes",
+        "healthcare": "clinic",
+        "name": "Bio cycle clinic",
+        "operator:type": "private",
+        "source": "Nigerian Red Cross Society",
+        "staff_count:doctors": "1",
+        "staff_count:nurses": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4195185, 9.0199243]
+      },
+      "id": "node/10739640845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10750704915",
+        "addr:city": "Abuja",
+        "addr:street": "Before Aminu House Galadimawa, Off Airport Road",
+        "amenity": "clinic",
+        "emergency": "no",
+        "healthcare": "clinic",
+        "name": "Royal Health Care Galadimawa",
+        "operator": "RoyalHealth Care",
+        "operator:type": "private",
+        "source": "Nigerian Red Cross Society"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4272489, 8.9923713]
+      },
+      "id": "node/10750704915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10759291386",
+        "addr:city": "Federal Capital Territory",
+        "addr:street": "After Tiper Garage, Ketti Road, Sheretti, Kabusa",
+        "amenity": "clinic",
+        "beds": "6",
+        "emergency": "yes",
+        "healthcare": "clinic",
+        "name": "Wazobia Clinic and Maternity",
+        "operator:type": "private",
+        "source": "Nigerian Red Cross Society",
+        "staff_count:doctors": "2",
+        "staff_count:nurses": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4288449, 8.9392891]
+      },
+      "id": "node/10759291386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10759291587",
+        "addr:street": "Sheretti lot 3",
+        "amenity": "clinic",
+        "beds": "6",
+        "emergency": "yes",
+        "healthcare": "clinic",
+        "name": "Primary Healthcare Clinic",
+        "operator": "MDGs",
+        "operator:type": "government",
+        "source": "Nigerian Red Cross Society",
+        "staff_count:nurses": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4408409, 8.9423356]
+      },
+      "id": "node/10759291587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10759309998",
+        "amenity": "clinic",
+        "beds": "6",
+        "emergency": "yes",
+        "healthcare": "clinic",
+        "name": "Kabusa Healthcare",
+        "operator:type": "government",
+        "source": "Nigerian Red Cross Society",
+        "staff_count:doctors": "1",
+        "staff_count:nurses": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4413401, 8.9496817]
+      },
+      "id": "node/10759309998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10759315274",
+        "amenity": "clinic",
+        "beds": "4",
+        "emergency": "yes",
+        "healthcare": "clinic",
+        "name": "Shadalafiya Primary Health Care",
+        "operator:type": "private",
+        "source": "Nigerian Red Cross Society",
+        "staff_count:doctors": "1",
+        "staff_count:nurses": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4424563, 8.9441907]
+      },
+      "id": "node/10759315274"
+    }
+  ]
+}

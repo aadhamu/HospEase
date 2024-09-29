@@ -1,0 +1,842 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-09-28T13:41:59Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1303733895",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "building:levels": "3",
+        "building:use": "commercial",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Green Access Pharmacy Ltd.",
+        "opening_hours": "Mo-Sa 08:00-18:30; Su 16:00-18:30",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.3632772, 8.9929036],
+            [7.3631191, 8.9929673],
+            [7.3630718, 8.9928523],
+            [7.3632299, 8.9927886],
+            [7.3632772, 8.9929036]
+          ]
+        ]
+      },
+      "id": "way/1303733895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1611132419",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.5750975, 9.0108859]
+      },
+      "id": "node/1611132419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4239609894",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4276741, 9.065223]
+      },
+      "id": "node/4239609894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4549849155",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4925275, 9.1040241]
+      },
+      "id": "node/4549849155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4549849156",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4996363, 9.0776868]
+      },
+      "id": "node/4549849156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5630743521",
+        "addr:housenumber": "Plot 147",
+        "addr:street": "PLOT 147, Zone A, Apo Resettlement",
+        "amenity": "pharmacy",
+        "email": "contact@Sfourng.com",
+        "name": "SFOUR HEALTH SERVICES LTD",
+        "name:ru": "ЭСФОР ХЕЛЬСЯ СЕРВИСИС ЛТД",
+        "opening_hours": "24/7",
+        "website": "http://www.sfourng.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.5038314, 8.9901462]
+      },
+      "id": "node/5630743521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5683475721",
+        "addr:housenumber": "PLOT 147",
+        "addr:street": "PLOT 147 , APO RESETTLEMENT ZONE A , APO",
+        "amenity": "pharmacy",
+        "email": "contact@sfourng.com",
+        "name": "SFOUR HEALTH SERVICES LTD",
+        "name:ru": "ЭСФОР ХЕЛЬСЯ СЕРВИСИС ЛТД",
+        "opening_hours": "24/7",
+        "website": "http://www.sfourng.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.5038421, 8.9901152]
+      },
+      "id": "node/5683475721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5738249266",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Skylark Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4636663, 9.0440228]
+      },
+      "id": "node/5738249266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8415816450",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Tonia Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4624923, 9.0764303]
+      },
+      "id": "node/8415816450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9279926739",
+        "amenity": "pharmacy",
+        "beds": "0",
+        "emergency": "no",
+        "healthcare": "pharmacy",
+        "name": "God's Will Ogbonna Medical Complex",
+        "opening_hours": "07:00-22:00",
+        "operator:type": "private",
+        "source": "Nigerian Red Cross Society",
+        "staff_count:doctors": "0",
+        "staff_count:nurses": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4266663, 8.9921388]
+      },
+      "id": "node/9279926739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9280131048",
+        "amenity": "pharmacy",
+        "emergency": "no",
+        "healthcare": "pharmacy",
+        "name": "Medicine & Stores",
+        "operator:type": "private",
+        "source": "Nigerian Red Cross Society"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.426118, 8.9914203]
+      },
+      "id": "node/9280131048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866201633",
+        "amenity": "pharmacy",
+        "beds": "0",
+        "dispensing": "yes",
+        "emergency": "yes",
+        "healthcare": "pharmacy",
+        "name": "Enord pharmacy",
+        "operator:type": "private",
+        "staff_count:nurses": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.5798691, 8.8246443]
+      },
+      "id": "node/9866201633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9939665482",
+        "amenity": "pharmacy",
+        "source": "nigeriase4all.gov.ng",
+        "source:date": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4804093, 8.6354677]
+      },
+      "id": "node/9939665482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9945368484",
+        "amenity": "pharmacy",
+        "source": "nigeriase4all.gov.ng",
+        "source:date": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.3742352, 8.7255533]
+      },
+      "id": "node/9945368484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9945371492",
+        "amenity": "pharmacy",
+        "source": "nigeriase4all.gov.ng",
+        "source:date": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1656061, 8.7186893]
+      },
+      "id": "node/9945371492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9945394499",
+        "amenity": "pharmacy",
+        "source": "nigeriase4all.gov.ng",
+        "source:date": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0547657, 8.6658541]
+      },
+      "id": "node/9945394499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9945400596",
+        "amenity": "pharmacy",
+        "source": "nigeriase4all.gov.ng",
+        "source:date": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.318996, 8.6740819]
+      },
+      "id": "node/9945400596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9945426302",
+        "amenity": "pharmacy",
+        "source": "nigeriase4all.gov.ng",
+        "source:date": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.425355, 8.8637898]
+      },
+      "id": "node/9945426302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9945432054",
+        "amenity": "pharmacy",
+        "source": "nigeriase4all.gov.ng",
+        "source:date": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.9600527, 8.9229242]
+      },
+      "id": "node/9945432054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9945432058",
+        "amenity": "pharmacy",
+        "source": "nigeriase4all.gov.ng",
+        "source:date": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.9605056, 8.9218434]
+      },
+      "id": "node/9945432058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9945433958",
+        "amenity": "pharmacy",
+        "source": "nigeriase4all.gov.ng",
+        "source:date": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4023896, 8.7403434]
+      },
+      "id": "node/9945433958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9945442075",
+        "amenity": "pharmacy",
+        "source": "nigeriase4all.gov.ng",
+        "source:date": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0744433, 8.7713433]
+      },
+      "id": "node/9945442075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9945442083",
+        "amenity": "pharmacy",
+        "source": "nigeriase4all.gov.ng",
+        "source:date": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0756891, 8.7698579]
+      },
+      "id": "node/9945442083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9945448172",
+        "amenity": "pharmacy",
+        "source": "nigeriase4all.gov.ng",
+        "source:date": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1992987, 8.7912412]
+      },
+      "id": "node/9945448172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9945448177",
+        "amenity": "pharmacy",
+        "source": "nigeriase4all.gov.ng",
+        "source:date": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1987268, 8.790168]
+      },
+      "id": "node/9945448177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9945456756",
+        "amenity": "pharmacy",
+        "source": "nigeriase4all.gov.ng",
+        "source:date": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0986769, 8.628778]
+      },
+      "id": "node/9945456756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9945458807",
+        "amenity": "pharmacy",
+        "source": "nigeriase4all.gov.ng",
+        "source:date": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1526866, 8.6833649]
+      },
+      "id": "node/9945458807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9945458813",
+        "amenity": "pharmacy",
+        "source": "nigeriase4all.gov.ng",
+        "source:date": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1524978, 8.6835763]
+      },
+      "id": "node/9945458813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9945474200",
+        "amenity": "pharmacy",
+        "source": "nigeriase4all.gov.ng",
+        "source:date": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.3932308, 8.817217]
+      },
+      "id": "node/9945474200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9945476523",
+        "amenity": "pharmacy",
+        "source": "nigeriase4all.gov.ng",
+        "source:date": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0544741, 8.6652346]
+      },
+      "id": "node/9945476523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9945481137",
+        "amenity": "pharmacy",
+        "source": "nigeriase4all.gov.ng",
+        "source:date": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0519433, 8.7412052]
+      },
+      "id": "node/9945481137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9945483740",
+        "amenity": "pharmacy",
+        "source": "nigeriase4all.gov.ng",
+        "source:date": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1538442, 8.6839191]
+      },
+      "id": "node/9945483740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9945485319",
+        "amenity": "pharmacy",
+        "source": "nigeriase4all.gov.ng",
+        "source:date": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1677151, 8.6832255]
+      },
+      "id": "node/9945485319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10097309846",
+        "amenity": "pharmacy",
+        "beds": "1",
+        "dispensing": "yes",
+        "emergency": "no",
+        "healthcare": "pharmacy",
+        "name": "Reference health",
+        "operator:type": "private",
+        "source": "Nigerian Red Cross Society",
+        "staff_count:doctors": "0",
+        "staff_count:nurses": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.5728458, 8.828976]
+      },
+      "id": "node/10097309846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10225180592",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Taonet Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.3722971, 9.1417835]
+      },
+      "id": "node/10225180592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10225283918",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Tarei Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.3693753, 9.1395191]
+      },
+      "id": "node/10225283918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10550583552",
+        "addr:street": "Scc Junction",
+        "amenity": "pharmacy",
+        "beds": "0",
+        "emergency": "no",
+        "healthcare": "pharmacy",
+        "name": "Ezanol Pharmacy ltd",
+        "operator": "Ezanol Pharmacy ltd",
+        "operator:type": "private",
+        "source": "Nigerian Red Cross Society",
+        "staff_count:nurses": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.5696951, 8.8302583]
+      },
+      "id": "node/10550583552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10739619216",
+        "addr:street": "Opposite AEDC office",
+        "amenity": "pharmacy",
+        "emergency": "no",
+        "healthcare": "pharmacy",
+        "name": "RX pharmacy",
+        "operator:type": "private",
+        "source": "Nigerian Red Cross Society"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4224001, 9.0166476]
+      },
+      "id": "node/10739619216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10739640846",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "operator:type": "private",
+        "source": "Nigerian Red Cross Society"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4190297, 9.0161569]
+      },
+      "id": "node/10739640846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10739640847",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Mane Sol Pharmacy",
+        "operator:type": "private",
+        "source": "Nigerian Red Cross Society"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4204888, 9.0147856]
+      },
+      "id": "node/10739640847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10750472007",
+        "addr:street": "Opposite Galadimawa Market, Galadimawa",
+        "amenity": "pharmacy",
+        "beds": "0",
+        "emergency": "no",
+        "healthcare": "pharmacy",
+        "name": "Ohbye Pharmacy Ltd.",
+        "operator": "Ohbye Limited",
+        "operator:type": "private",
+        "source": "Nigerian Red Cross Society",
+        "staff_count:doctors": "0",
+        "staff_count:nurses": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4266102, 8.9925415]
+      },
+      "id": "node/10750472007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10750539980",
+        "amenity": "pharmacy",
+        "emergency": "yes",
+        "healthcare": "pharmacy",
+        "name": "Prime Care Medicine Shop",
+        "operator:type": "private",
+        "source": "Nigerian Red Cross Society"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4237123, 8.9956821]
+      },
+      "id": "node/10750539980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10750539981",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "White heart Pharmaceutical and Supermarket",
+        "shop": "convenience",
+        "source": "Nigerian Red Cross Society"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4239426, 8.9958329]
+      },
+      "id": "node/10750539981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10759282336",
+        "amenity": "pharmacy",
+        "emergency": "no",
+        "healthcare": "pharmacy",
+        "name": "Keecee Pharmacy",
+        "source": "Nigerian Red Cross Society"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4435052, 8.9448755]
+      },
+      "id": "node/10759282336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11478728069",
+        "addr:housenumber": "29",
+        "addr:street": "Lingu Crescent",
+        "amenity": "pharmacy",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Skylark Pharmacy",
+        "opening_hours": "Mo-Sa 08:00-21:00",
+        "operator": "Skylark Pharmaceuticals & Chemical Co"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4689118, 9.0712946]
+      },
+      "id": "node/11478728069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11505516690",
+        "addr:city": "Abuja",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "level": "0",
+        "name": "Cornemed Pharmacy and Stores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4373732, 8.9702175]
+      },
+      "id": "node/11505516690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11576552394",
+        "addr:housenumber": "78",
+        "addr:street": "Ibrahim Babangida Boulevard",
+        "amenity": "pharmacy",
+        "name": "H-Medix pharmacy",
+        "opening_hours": "Mo-Sa 08:00-20:00; Su 15:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4856653, 9.1057007]
+      },
+      "id": "node/11576552394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11595519293",
+        "addr:city": "Abuja",
+        "addr:street": "Mohammadu Buhari Way",
+        "amenity": "pharmacy",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "level": "0",
+        "name": "Tonia Pharmacy Ltd."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4792411, 9.0530742]
+      },
+      "id": "node/11595519293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11795312540",
+        "amenity": "pharmacy",
+        "name": "Ben Cee Divine Medical",
+        "opening_hours": "Mo-Sa 07:00-23:00; Su 10:00-23:00",
+        "phone": "+2348064362953, +2348086451956, +2349021015264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4833662, 8.9619997]
+      },
+      "id": "node/11795312540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11813530403",
+        "addr:unit": "32",
+        "amenity": "pharmacy",
+        "level": "0",
+        "name": "ACE Health & Medical Stores",
+        "phone": "+234 907 561 3478"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.2566194, 8.9692656]
+      },
+      "id": "node/11813530403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11845377300",
+        "amenity": "pharmacy",
+        "name": "H-Medix Pharmacy & Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4850454, 9.0233563]
+      },
+      "id": "node/11845377300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12178748895",
+        "amenity": "pharmacy",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Zagbavi Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4685387, 9.0612803]
+      },
+      "id": "node/12178748895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12178777204",
+        "addr:housenumber": "3",
+        "addr:street": "Conakry Street",
+        "amenity": "pharmacy",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "level": "0",
+        "name": "Skylark Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4667062, 9.0596188]
+      },
+      "id": "node/12178777204"
+    }
+  ]
+}
